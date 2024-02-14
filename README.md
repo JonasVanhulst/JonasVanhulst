@@ -12,28 +12,37 @@
 
 <br/>
 
-### 🛠 Languages :
-
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcreazilla-store.fra1.digitaloceanspaces.com%2Ficons%2F3256498%2Ffile-type-cpp-icon-md.png&f=1&nofb=1&ipt=cdcd64b63327a5be4bfa6928957cf6e8e222f8ce1817db5037c062a2f730a6b0&ipo=images" title="C++" alt="C++" width="42" height="42"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-</p>
-
-<br/>
-
-### 🛠 Tools :
-
-<p>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker"  alt="Docker" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github"  alt="Github" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jetbrains"  alt="Jetbrains" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>
-</p>
 
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Apple-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=2bbc8a)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Jetbrains-informational?style=flat&logo=jetbrains&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/JonasVanhulst/JonasVanhulst">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasVanhulst&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/JonasVanhulst/JonasVanhulst">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JonasVanhulst&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="JonasVanhulst's GitHub Stats" />
+</a>
+
+<a href="https://github.com/JonasVanhulst/DepthMonitor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JonasVanhulst&repo=DepthMonitor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/JonasVanhulst/AdventOfCode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JonasVanhulst&repo=AdventOfCode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
