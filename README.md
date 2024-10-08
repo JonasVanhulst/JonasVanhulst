@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines= Hi👋 I'am Jonas Vanhulst&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi👋,+I'm+Jonas+Vanhulst&center=true&size=20">
   </a>
 </h1>
 
@@ -59,12 +59,12 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/JonasVanhulst/AdventOfCode" title="AdvenOfCode"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JonasVanhulst&repo=AdventOfCode&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/JonasVanhulst/embedded-iot-academy" title="embedded-iot-academy"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JonasVanhulst&repo=JonasVanhulst&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/JonasVanhulst/embedded-iot-academy" title="embedded-iot-academy"><img align="right" height="115"  src="https://github-readme-stats.vercel.app/api/pin/?username=JonasVanhulst&repo=JonasVanhulst&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/JonasVanhulst/minesweeper" title="minesweeper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JonasVanhulst&repo=minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/JonasVanhulst/SwiftAdventures" title="SwiftAdventures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JonasVanhulst&repo=SwiftAdventures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/JonasVanhulst/SwiftAdventures" title="SwiftAdventures"><img align="right" height="115"  src="https://github-readme-stats.vercel.app/api/pin/?username=JonasVanhulst&repo=SwiftAdventures&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
@@ -72,12 +72,6 @@
   <a align="right" href="https://github.com/JonasVanhulst/DepthMonitor" title="DepthMonitor"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JonasVanhulst&repo=DepthMonitor&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
-
-
-
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
