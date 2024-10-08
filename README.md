@@ -22,10 +22,12 @@
 ![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
 ![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=6aa6f8)
+![Swift](https://img.shields.io/badge/Code-swift-informational?style=flat&logo=swift&logoColor=white&color=6aa6f8)
+
 
 **Operating Systems**
 
-![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=microsoft-windows&logoColor=white&color=6aa6f8)
+![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=6aa6f8)
 ![MAC](https://img.shields.io/badge/OS-Apple-informational?style=flat&logo=apple&logoColor=white&color=6aa6f8)
 
@@ -33,7 +35,9 @@
 
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![Visual Studio Code](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![Jetbrains](https://img.shields.io/badge/Tools-Jetbrains-informational?style=flat&logo=jetbrains&logoColor=white&color=6aa6f8)
+![Digital Ocean](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=6aa6f8)
+![Visual Studio Code](https://img.shields.io/badge/Tools-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6aa6f8)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
