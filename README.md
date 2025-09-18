@@ -4,12 +4,13 @@
   </a>
 </h1>
 
-- 🔭 I'm currently working on a **Skill development in python and c/cpp**
-- 🌱 I’m gradiated from **PXL University**, specializing in **Electronics-ICT**
-- 💬 Ask me anything about embedded systems and automation development
-- 📫 How to reach me: **Github** & **LinkedIn**
-- 🎓 I graduated from VIA as an Electronics-Mechanics student
-- ⚡ Fun fact: I love **cycling**
+- 🔭 I’m currently working on **developing my skills in Python and C/C++**  
+- 🌱 I graduated from **PXL University**, specializing in **Electronics-ICT**  
+- 🎓 I also hold a degree from **VIA** in **Electronics-Mechanics**  
+- 💬 Ask me anything about **embedded systems and automation development**  
+- 📫 How to reach me: **GitHub** & **LinkedIn**  
+- 🚀 I’m currently looking for opportunities in **Embedded Systems, PLC Programming, and Automation Engineering**  
+- ⚡ Fun fact: I love **cycling**  
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
