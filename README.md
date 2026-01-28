@@ -1,85 +1,166 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi👋,+I'm+Jonas+Vanhulst&center=true&size=20">
-  </a>
-</h1>
 
-- 🔭 I’m currently working on **developing my skills in Python and C/C++**  
-- 🌱 I graduated from **PXL University**, specializing in **Electronics-ICT**  
-- 🎓 I also hold a degree from **VIA** in **Electronics-Mechanics**  
-- 💬 Ask me anything about **embedded systems and automation development**  
-- 📫 How to reach me: **GitHub** & **LinkedIn**  
-- 🚀 I’m currently looking for opportunities in **Embedded Systems, PLC Programming, and Automation Engineering**  
-- ⚡ Fun fact: I love **cycling**  
-
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-
-## 💻 Skills Overview
-
-### 🐍 Programming Languages
-
-**Proficient In:**  
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=6aa6f8)
-![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
-![Objective-C](https://img.shields.io/badge/Code-Objective--C-informational?style=flat&logo=apple&logoColor=white&color=6aa6f8)
-
-**Worked With:**  
-![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
-![Swift](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=6aa6f8)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
+<div align="center">
+  <h1>Jonas Vanhulst</h1>
+  <p>Embedded Systems Engineer • Robotics • Automation</p>
+</div>
 
 ---
 
-### 🖥️ Operating Systems
+<div align="center">
+  <a href="https://www.linkedin.com/in/jonas-vanhulst-b62719332/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn"/></a><a href="https://github.com/JonasVanhulst"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="GitHub"/></a>
+</div>
 
-![OS-Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
-![OS-Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=6aa6f8)
-![OS-macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=6aa6f8)
+
+</div>
+
+## 👩‍💻 About Me
+
+🎓 I am a graduate in **Electronics-ICT** with a strong passion for **embedded systems, robotics, and automation**.  
+🔭 I am currently strengthening my skills in **Python** and **C/C++**.  
+🌱 I graduated from **PXL University**, specializing in **Electronics-ICT**, and I also hold a degree from **VIA** in **Electronics-Mechanics**.  
+💬 Ask me anything about **embedded systems**, **robotics** and **automation** .  
+📫 How to reach me: **GitHub & LinkedIn**.  
+🚀 I am actively seeking opportunities in **Embedded Systems**, **Robotics Engineering**, and **Automation Engineering**.  
+⚡ Fun fact: I love **cycling**.
+
+I am especially interested in building **autonomous systems and robots that solve real-world problems**, such as self-driving and obstacle-avoiding vehicles.
+
+During my studies, I worked on **end-to-end IoT applications**, **AI development**, and several **embedded projects**, including:
+- A **self-driving obstacle-avoiding car** using **PSoC^** that also can execute commands that are send over MQTT.
+- A **self-driving obstacle-avoiding car** using **PYNQ-Z2** to evaluate performance across platforms (psoc6).
 
 ---
 
-### ⚙️ Tools & Services
 
-**Proficient In:**  
-![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![JetBrains](https://img.shields.io/badge/Tools-JetBrains-informational?style=flat&logo=jetbrains&logoColor=white&color=6aa6f8)
-![VS Code](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6aa6f8)
-![Raspberry Pi](https://img.shields.io/badge/Tools-Raspberry_Pi-informational?style=flat&logo=raspberrypi&logoColor=white&color=6aa6f8)
-![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=6aa6f8)
+## 💻 Technical Skills
 
-**Worked With:**  
-![Blender](https://img.shields.io/badge/Tools-Blender-informational?style=flat&logo=blender&logoColor=white&color=6aa6f8)
-![Arduino](https://img.shields.io/badge/Tools-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=6aa6f8)
-![Qt](https://img.shields.io/badge/Framework-Qt-informational?style=flat&logo=qt&logoColor=white&color=6aa6f8)
-![Digital Ocean](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=6aa6f8)
-![React Native](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![OpenCV](https://img.shields.io/badge/Library-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=6aa6f8)
+### Programming Languages
+**Proficient:**
+- C / Embedded C  
+- C++  
+- Python  
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasVanhulst&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-</p>
+**Small Experience with:**
+- Rust (embedded)
+- TypeScript
+- React
+- Swift
+- SQL & InfluxDB
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=JonasVanhulst&theme=dark&hide_border=false)<br/>
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JonasVanhulst&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### Embedded Platforms & Hardware
+- **Xilinx PYNQ-Z2**
+  - FPGA block design in **Vivado**
+  - Embedded application development in **Vitis Classic**
+  - Linux + Jupyter Notebook integration
+  - Real-time and autonomous system projects (e.g. self-driving vehicle)
+- **Infineon PSoC 6**
+  - RTOS-based embedded development
+  - Low-level driver and peripheral programming
+- **Raspberry Pi**
+  - Ubuntu/Linux-based IoT systems
+  - Edge device development
+- Real-time operating systems (RTOS)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JonasVanhulst&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### PLC & Automation
+- **Siemens** PLC & TIA Portal (secondary education)
+- **Beckhoff** PLC & TwinCAT (PXL)
+- Industrial automation & control systems
+
+---
+
+### Tools, Frameworks & Technologies
+**Proficient:**
+- Vivado & Vitis-Classic
+- Modustoolbox (PsoC 6)
+- Qt (desktop applications)
+- Git & GitHub
+- JetBrains IDEs
+- VS Code
+
+**Worked with:**
+- Docker
+- OpenCV
+- GStreamer (NVIDIA) 
+- FastAPI
+- Express.js
+- Socket.IO
+- InfluxDB
+- MySQL
+- Insomnia
+- Blender
+
+---
+
+## ⭐ Featured Projects
+**Note:** Some academic projects are private to respect plagiarism policies, but I am happy to discuss my approach, architecture, and implementation details in interviews.
+
+### 🔧 RTSP Camera Viewer (Qt / C++)
+A desktop application for viewing and managing RTSP camera streams.  
+**Technologies:** C++, Qt, RTSP  
+<!-- 🔗 [View Repository](https://github.com/JonasVanhulst/REPO_NAAM) -->
+
+---
+
+### 🤖 Embedded & Autonomous Systems Projects (PSoC / PYNQ / RTOS)
+
+A collection of embedded projects developed during my studies, focusing on autonomous vehicles, FPGA-based designs, and real-time applications.  
+All projects were programmed using **RTOS** and are private due to academic policies, but the concepts, architecture, and technical challenges can be discussed.
+
+---
+
+#### **PSoC Autonomous Car**
+Developed a self-driving vehicle using a **PSoC 6**, equipped with:
+- HC-R04 ultrasonic sensor
+- Speed sensor (wheel encoder)
+- Object detection sensors  
+
+The vehicle autonomously navigates a course, avoiding obstacles and finding its way from point A to point B.
+
+---
+
+#### **PSoC 2.0**
+Enhanced the autonomous car to handle **MQTT commands** from an instructor:
+- Can follow instructions in real-time  
+- Supports “follow-the-leader” mode upon request  
+
+**Technical challenge:** An analysis showed the PSoC could not fully handle all MQTT tasks due to **thread limitations**, reaching its performance ceiling.
+
+---
+
+#### **Xilinx PYNQ-Z2 Autonomous Car**
+- Designed custom **IP blocks** to interface with sensors via **Vitis Classic**  
+- Programmed autonomous navigation for the vehicle, enabling it to complete routes without collisions  
+
+**Technical highlight:** Combined FPGA design (Vivado) and embedded application development (Vitis) for real-time autonomous control.
+
+---
+
+### 🌐 End-to-End IoT Platform
+An end-to-end IoT system including embedded devices, backend APIs, real-time communication, and dashboards.  
+**Technologies:** React, Typsecript, Express.js, Python, FastAPI, Docker, Socket.IO, InfluxDB  
+<!-- 🔗 [View Repository](https://github.com/JonasVanhulst/REPO_NAAM) -->
+- 🔗 [View Home Assist](https://github.com/JonasVanhulst/Home_Assist)
+
+---
+
+### ⚙️ PLC Automation Project (Beckhoff / TwinCAT)
+Industrial automation project using Beckhoff PLCs, focusing on control logic, safety, and real-world industrial workflows.  
+**Technologies:** TwinCAT, Structured Text, Industrial I/O  
+<!-- 🔗 [View Repository](https://github.com/JonasVanhulst/REPO_NAAM)  -->
+- 🔗 [View Beckhoff Motion](https://github.com/JonasVanhulst/Beckhoff_Motion)
+
+---
+
+## 🔥 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JonasVanhulst&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JonasVanhulst&layout=compact&theme=dracula&hide_border=false" height="150" />
+</div>
+
+---
+
