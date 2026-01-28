@@ -26,8 +26,9 @@
 I am especially interested in building **autonomous systems and robots that solve real-world problems**, such as self-driving and obstacle-avoiding vehicles.
 
 During my studies, I worked on **end-to-end IoT applications**, **AI development**, and several **embedded projects**, including:
-- A **self-driving obstacle-avoiding car** using **PSoC^** that also can execute commands that are send over MQTT.
+- A **self-driving obstacle-avoiding car** using **PSoC6** that also can execute commands that are send over MQTT.
 - A **self-driving obstacle-avoiding car** using **PYNQ-Z2** to evaluate performance across platforms (psoc6).
+- Qt Desktop Applications: Developed networked and GUI-based applications including a Connect4 game with ZeroMQ, a D&D card simulator, and an RTSP camera viewer, showcasing skills in GUI design and networking.
 
 ---
 
@@ -54,6 +55,7 @@ During my studies, I worked on **end-to-end IoT applications**, **AI development
   - FPGA block design in **Vivado**
   - Embedded application development in **Vitis Classic**
   - Linux + Jupyter Notebook integration
+  - RTOS-based embedded development
   - Real-time and autonomous system projects (e.g. self-driving vehicle)
 - **Infineon PSoC 6**
   - RTOS-based embedded development
@@ -136,6 +138,27 @@ Enhanced the autonomous car to handle **MQTT commands** from an instructor:
 - Programmed autonomous navigation for the vehicle, enabling it to complete routes without collisions  
 
 **Technical highlight:** Combined FPGA design (Vivado) and embedded application development (Vitis) for real-time autonomous control.
+
+---
+
+### 🖥️ Qt Desktop Applications
+
+#### **ZeroMQ Connect4 Network Game**
+A networked Connect4 game built with **Qt** and **ZeroMQ**, featuring multiple microservices for scalable communication.  
+- **Core functionality:** Play Connect4 against other users with a responsive GUI  
+- **Architecture:** Multiple services communicate via ZeroMQ for efficiency and reliability  
+- **Additional features:** API selection service, real-time user feedback, and planned message storage/logging  
+- **Future expansion:** Python service to communicate with embedded devices (e.g., controlling RGB LEDs)
+  
+---
+
+#### **Dungeons & Dragons Card Simulator (Qt)**
+A GUI application to manage **D&D 5e cards**, allowing users to:
+- Browse and select cards in an intuitive interface  
+- View card details and organize custom lists  
+- Future goal: implement playable mechanics to cast cards directly in-game  
+
+**Technologies used:** Qt (C++), GUI design, ZeroMQ (for networked applications), Python (planned embedded integration)
 
 ---
 
