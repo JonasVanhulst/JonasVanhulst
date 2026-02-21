@@ -1,6 +1,7 @@
 
 <div align="center">
   <h1>Jonas Vanhulst</h1>
+  <p>Junior Software Engineer at Octinion and Octiva</p>
   <p>Embedded Systems Engineer • Robotics • Automation</p>
 </div>
 
@@ -20,8 +21,10 @@
 🌱 I graduated from **PXL University**, specializing in **Electronics-ICT**, and I also hold a degree from **VIA** in **Electronics-Mechanics**.  
 💬 Ask me anything about **embedded systems**, **robotics** and **automation** .  
 📫 How to reach me: **GitHub & LinkedIn**.  
-🚀 I am actively seeking opportunities in **Embedded Systems**, **Robotics Engineering**, and **Automation Engineering**.  
+🚀 I am actively as a **Junior Software Engineer** at **Octinion** and **Octiva**.   
 ⚡ Fun fact: I love **cycling**.
+<!--- 🚀 I am actively seeking opportunities in **Embedded Systems**, **Robotics Engineering**, and **Automation Engineering**.  --->
+
 
 I am especially interested in building **autonomous systems and robots that solve real-world problems**, such as self-driving and obstacle-avoiding vehicles.
 
